@@ -16,11 +16,6 @@ A Python-based real-time emotion detection system that uses a webcam to capture 
 
 ---
 
-## 🖼️ Preview
-
-![App Screenshot](screenshot.png) <!-- Optional: add your own screenshot -->
-
----
 
 ## 🛠️ Technologies Used
 
