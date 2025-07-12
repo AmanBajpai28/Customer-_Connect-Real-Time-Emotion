@@ -1,0 +1,53 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# SQLite database
+*.db
+*.sqlite3
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Executable files
+*.exe
+*.dll
+*.so
+
+# Model and checkpoints (optional if using pre-trained)
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+
+# Testing output
+*.mp4
+*.avi
+*.jpg
+*.png
+
+# Environment config (optional)
+.env
+.env.*
